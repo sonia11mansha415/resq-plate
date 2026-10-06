@@ -1,0 +1,6 @@
+{
+  "name": "ResQ-Plate",
+  "description": "AI-powered surplus food rescue platform connecting hotels and food donors with nearby NGOs and volunteers using Gemini AI safety analysis.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
